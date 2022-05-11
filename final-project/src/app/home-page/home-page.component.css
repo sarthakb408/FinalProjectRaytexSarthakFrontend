@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif,monospace;
+}
+.nav-link{
+    font-family: sans-serif,monospace;
+    font-size: 1rem;
+    font-weight: 500;
+
+}
+.nav-link:hover{
+   /* background-color: #ff0000; */
+   /* outline: 1.5px solid #ff0000; */
+   /* outline-style: double; */
+   font-weight: 550;
+   
+}
